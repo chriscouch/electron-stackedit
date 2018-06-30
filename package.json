@@ -9,6 +9,7 @@
     "dev": "NODE_ENV=DEV vue-cli-service serve & sleep 5 && NODE_ENV=DEV electron app.js"
   },
   "dependencies": {
+    "electron": "^2.0.3",
     "vue": "^2.5.16"
   },
   "devDependencies": {
